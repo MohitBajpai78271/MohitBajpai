@@ -37,7 +37,7 @@ efficient data flow.
   - Designed a dynamic and user-friendly interface using UIKit.
   - Secure RESTful APIs for getting crime data,saving data and authentication.
   
-https://github.com/MohitBajpai78271/COP-New-.git(#)
+https://github.com/MohitBajpai78271/COP-New-.git
 
 ### 2. GithubFollowers (iOS App)
 
@@ -48,7 +48,7 @@ showcasing their avatar images and names with an optimized, user-friendly UI.
   - Designed custom UI components such as text fields, buttons, labels, and alert, while also adding functionality
   to open GitHub profiles directly in Safari.
 
-https://github.com/MohitBajpai78271/GHFollowers-new.git(#)
+https://github.com/MohitBajpai78271/GHFollowers-new.git
 
 
 ## 🌟 Highlights
