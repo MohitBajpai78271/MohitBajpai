@@ -1,54 +1,74 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# 🚀 [Your Name] - Software Developer Portfolio
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Welcome to my portfolio! I am a passionate software developer with experience in iOS app development, internships, and various software projects. Below is a summary of my work, projects, and skills. Feel free to explore and connect with me!
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## 👨‍💻 About Me
 
-<h2>📺 Popular YouTube Videos</h2>
+- 🔭 I am currently pursuing a B.Tech at [Your University].
+- 💼 I have completed an internship as a [Your Role] at [Company Name].
+- 📱 I specialize in iOS app development using Swift, UIKit, and other technologies.
+- 🎯 I'm always learning and looking to improve my skills in mobile development, backend systems, and more!
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## 📚 Skills
 
-<h2> 🤳 Connect with me:</h2>
+- **Languages**: Swift, Java, C, Python
+- **iOS Frameworks**: UIKit, SwiftUI, MapKit, Core Data
+- **Backend**: Node.js, Express.js, Firebase
+- **Tools**: Xcode, Git, GitHub, Figma, Postman
+- **Others**: REST APIs, JSON, Core Location, Alamofire
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 💼 Internship Experience
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### [Internship Role] at [Company Name] (Duration)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Worked on [specific tasks/projects] related to iOS development.
+- Contributed to [specific achievement] in the development of [project].
+- Collaborated with cross-functional teams to deliver key features.
+- Implemented [specific features] using [technologies/tools].
 
-Here are some ideas to get you started:
+## 📱 iOS Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Project Name 1] (iOS App)
+
+- A brief description of the app (e.g., "A crime reporting app developed for Delhi Police that uses MapKit to display crime data and allows users to report incidents").
+- **Key Features**:
+  - Implemented crime data filtering and annotations on a map using MapKit and Alamofire.
+  - Created an OTP verification system with automatic resend timers.
+  - Designed a dynamic and user-friendly interface using UIKit.
+  
+[Link to the project repository](#)
+
+### 2. [Project Name 2] (iOS App)
+
+- A brief description of the app (e.g., "A productivity app to manage tasks with custom reminders and notifications").
+- **Key Features**:
+  - Integrated Core Data for local data storage and management.
+  - Used SwiftUI to build an interactive and intuitive UI.
+  - Deployed the app on the App Store with ongoing updates and bug fixes.
+
+[Link to the project repository](#)
+
+## 🔗 Other Projects
+
+### [Project Name 3]
+
+- Description of another project (e.g., "A full-stack web application that allows users to track their fitness progress").
+- **Key Features**:
+  - Built RESTful APIs using Node.js and Express.
+  - Developed a responsive front-end using HTML, CSS, and JavaScript.
+
+[Link to the project repository](#)
+
+## 🌟 Highlights
+
+- **Problem-solving**: Enjoy solving complex problems and optimizing solutions.
+- **Collaboration**: Worked closely with teams during my internship and in university projects.
+- **Continuous Learning**: Passionate about learning new technologies and improving my development skills.
+
+## 📫 Get in Touch
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn](#)
+- GitHub: [Your GitHub](#)
+
+Thanks for visiting my portfolio! Feel free to explore the repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions. 😊
