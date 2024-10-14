@@ -53,14 +53,14 @@ https://github.com/MohitBajpai78271/GHFollowers-new.git
 
 ## 🌟 Highlights
 
-- **Problem-solving**: Solcve.
-- **Collaboration**: Worked closely with teams during my internship and in university projects.
-- **Continuous Learning**: Passionate about learning new technologies and improving my development skills.
+- Solved 300+ problems including Leetcode,CodingNinjas and GeeksforGeeks.
+- Worked closely with teams during my internship and in university projects.
+- Passionate about learning new technologies and improving my development skills.
 
 ## 📫 Get in Touch
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](#)
-- GitHub: [Your GitHub](#)
+- Email: [@example.com](mailto:mohitbajpai998@gmail.com)
+- LinkedIn:  www.linkedin.com/in/mohit-bajpai-a65b7b256
+- GitHub: https://github.com/MohitBajpai78271/
 
 Thanks for visiting my portfolio! Feel free to explore the repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions. 😊
