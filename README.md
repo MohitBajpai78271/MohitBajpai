@@ -1,63 +1,55 @@
-# 🚀 [Your Name] - Software Developer Portfolio
+# 🚀 Mohit Bajpai - Software Developer Portfolio
 
 Welcome to my portfolio! I am a passionate software developer with experience in iOS app development, internships, and various software projects. Below is a summary of my work, projects, and skills. Feel free to explore and connect with me!
 
 ## 👨‍💻 About Me
 
-- 🔭 I am currently pursuing a B.Tech at [Your University].
-- 💼 I have completed an internship as a [Your Role] at [Company Name].
+- 🔭 I am currently pursuing a B.Tech at Delhi Technological University (formerly DCE).
+- 💼 I have completed an internship as a iOS Frontend Developer for Delhi Government.
 - 📱 I specialize in iOS app development using Swift, UIKit, and other technologies.
-- 🎯 I'm always learning and looking to improve my skills in mobile development, backend systems, and more!
+- 🎯 I'm always learning and looking to improve my skills in mobile development, UI experience, and more!
 
 ## 📚 Skills
 
-- **Languages**: Swift, Java, C, Python
-- **iOS Frameworks**: UIKit, SwiftUI, MapKit, Core Data
-- **Backend**: Node.js, Express.js, Firebase
-- **Tools**: Xcode, Git, GitHub, Figma, Postman
+- **Languages**: Swift, Java, C
+- **iOS Frameworks**: UIKit, MapKit, Core Data
+- **Backend**: Firebase
+- **Tools**: Xcode,VS code, Git, GitHub, Postman
 - **Others**: REST APIs, JSON, Core Location, Alamofire
 
 ## 💼 Internship Experience
 
-### [Internship Role] at [Company Name] (Duration)
+### iOS Frontend Developer at Government of Delhi (For 2 months)
 
-- Worked on [specific tasks/projects] related to iOS development.
-- Contributed to [specific achievement] in the development of [project].
-- Collaborated with cross-functional teams to deliver key features.
-- Implemented [specific features] using [technologies/tools].
+- Development and maintaining iOS frontend components using Swift and UIKit.
+- Collaborated with Node.js developers to implement backend functionalities, ensuring seamless integration and
+efficient data flow.
+- Implement secure authentication processes, including OTP verification and token-based authentication, ensuring data protection and user privacy.
 
 ## 📱 iOS Projects
 
-### 1. [Project Name 1] (iOS App)
+### 1. ConstableOnPatrol (iOS App)
 
-- A brief description of the app (e.g., "A crime reporting app developed for Delhi Police that uses MapKit to display crime data and allows users to report incidents").
+- This project involved the development of an application aimed at enhancing foot patrolling efforts in Delhi.The application facilitates efficient communication and coordination among law enforcement officers,improving response times and overall safety in the community.
 - **Key Features**:
   - Implemented crime data filtering and annotations on a map using MapKit and Alamofire.
   - Created an OTP verification system with automatic resend timers.
   - Designed a dynamic and user-friendly interface using UIKit.
+  - Secure RESTful APIs for getting crime data,saving data and authentication.
   
-[Link to the project repository](#)
+https://github.com/MohitBajpai78271/COP-New-.git(#)
 
-### 2. [Project Name 2] (iOS App)
+### 2. GithubFollowers (iOS App)
 
-- A brief description of the app (e.g., "A productivity app to manage tasks with custom reminders and notifications").
+- Developed a search functionality that allows users to search and display GitHub followers by username,
+showcasing their avatar images and names with an optimized, user-friendly UI.
 - **Key Features**:
-  - Integrated Core Data for local data storage and management.
-  - Used SwiftUI to build an interactive and intuitive UI.
-  - Deployed the app on the App Store with ongoing updates and bug fixes.
+  - Used Github RESTful APIs to get followers using userName and their respective data.
+  - Designed custom UI components such as text fields, buttons, labels, and alert, while also adding functionality
+  to open GitHub profiles directly in Safari.
 
-[Link to the project repository](#)
+https://github.com/MohitBajpai78271/GHFollowers-new.git(#)
 
-## 🔗 Other Projects
-
-### [Project Name 3]
-
-- Description of another project (e.g., "A full-stack web application that allows users to track their fitness progress").
-- **Key Features**:
-  - Built RESTful APIs using Node.js and Express.
-  - Developed a responsive front-end using HTML, CSS, and JavaScript.
-
-[Link to the project repository](#)
 
 ## 🌟 Highlights
 
