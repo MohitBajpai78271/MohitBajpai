@@ -1,6 +1,6 @@
 # 🚀 Mohit Bajpai - Software Developer Portfolio
 
-Welcome to my portfolio! I am a passionate software developer with experience in iOS app development, internships, and various software projects. Below is a summary of my work, projects, and skills. Feel free to explore and connect with me!
+Welcome to my portfolio! I am a dedicated software developer with expertise in iOS app development, backed by hands-on experience through internship and diverse software projects. Below is an overview of my professional experience, key projects, and technical skills. I invite you to explore my work and connect with me for further collaboration!
 
 ## 👨‍💻 About Me
 
@@ -53,7 +53,7 @@ https://github.com/MohitBajpai78271/GHFollowers-new.git
 
 ## 🌟 Highlights
 
-- **Problem-solving**: Enjoy solving complex problems and optimizing solutions.
+- **Problem-solving**: Solcve.
 - **Collaboration**: Worked closely with teams during my internship and in university projects.
 - **Continuous Learning**: Passionate about learning new technologies and improving my development skills.
 
