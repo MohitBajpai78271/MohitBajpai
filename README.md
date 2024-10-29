@@ -26,7 +26,7 @@ Welcome to my portfolio! I am a dedicated software developer with expertise in i
   efficient data flow.
 - Implemented secure authentication processes, including OTP verification and token-based authentication, ensuring data protection and user privacy.
 - 
-<img src="https://github.com/user-attachments/assets/7ddc38ba-563b-4c8a-9816-eba727eb913d" alt="Internship Photo" width="200" height = "200"/>
+<img src="https://github.com/user-attachments/assets/7ddc38ba-563b-4c8a-9816-eba727eb913d" alt="Internship Photo" width="200" height = "160"/>
 
 ## 📱 iOS Projects
 
