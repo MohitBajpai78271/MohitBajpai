@@ -19,12 +19,15 @@ Welcome to my portfolio! I am a dedicated software developer with expertise in i
 
 ## 💼 Internship Experience
 
-### iOS Frontend Developer at Government of Delhi (For 2 months)
+### iOS Frontend Developer at Government of Delhi (March to September)
+
+<img src="https://github.com/user-attachments/assets/7ddc38ba-563b-4c8a-9816-eba727eb913d" alt="Internship Photo" width="200"/>
 
 - Development and maintaining iOS frontend components using Swift and UIKit.
 - Collaborated with Node.js developers to implement backend functionalities, ensuring seamless integration and
-efficient data flow.
-- Implement secure authentication processes, including OTP verification and token-based authentication, ensuring data protection and user privacy.
+  efficient data flow.
+- Implemented secure authentication processes, including OTP verification and token-based authentication, ensuring data protection and user privacy.
+
 
 ## 📱 iOS Projects
 
