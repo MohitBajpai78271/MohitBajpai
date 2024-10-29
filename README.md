@@ -22,11 +22,13 @@ Welcome to my portfolio! I am a dedicated software developer with expertise in i
 ### iOS Frontend Developer at Government of Delhi (March 2024 to September 2024)
 
 - Development and maintaining iOS frontend components using Swift and UIKit.
-- Collaborated with Node.js developers to implement backend functionalities, ensuring seamless integration and
-  efficient data flow.
+- Collaborated with Node.js developers to implement backend functionalities, ensuring seamless integration and efficient data flow.
 - Implemented secure authentication processes, including OTP verification and token-based authentication, ensuring data protection and user privacy.
- 
-<img src="https://github.com/user-attachments/assets/7ddc38ba-563b-4c8a-9816-eba727eb913d" alt="Internship Photo" width="200" height = "160"/>  <img src = "https://github.com/user-attachments/assets/2fc37c1f-d413-439d-81ef-131e9c79decd" />
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/7ddc38ba-563b-4c8a-9816-eba727eb913d" alt="Internship Photo" width="200" height="160" style="border-radius: 10px; margin-right: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/2fc37c1f-d413-439d-81ef-131e9c79decd" alt="Second Photo" width="200" height="160" style="border-radius: 10px;"/>
+</div>
 
 
 ## 📱 iOS Projects
