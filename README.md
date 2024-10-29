@@ -25,8 +25,9 @@ Welcome to my portfolio! I am a dedicated software developer with expertise in i
 - Collaborated with Node.js developers to implement backend functionalities, ensuring seamless integration and
   efficient data flow.
 - Implemented secure authentication processes, including OTP verification and token-based authentication, ensuring data protection and user privacy.
-- 
-<img src="https://github.com/user-attachments/assets/7ddc38ba-563b-4c8a-9816-eba727eb913d" alt="Internship Photo" width="200" height = "160"/>
+ 
+<img src="https://github.com/user-attachments/assets/7ddc38ba-563b-4c8a-9816-eba727eb913d" alt="Internship Photo" width="200" height = "160"/>  <img src = "https://github.com/user-attachments/assets/2fc37c1f-d413-439d-81ef-131e9c79decd" />
+
 
 ## 📱 iOS Projects
 
