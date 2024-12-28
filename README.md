@@ -64,7 +64,7 @@ https://github.com/MohitBajpai78271/GHFollowers-new.git
 
 ## 📫 Get in Touch
 
-- Email: [mohitbajpai998@gmail.com](mailto:mohitbajpai998@gmail.com)
+- Email: [mohitbajpai998@gmail.com](mailto:mohitbajpai_ec22a17_49@dtu.ac.in)
 - LinkedIn:  www.linkedin.com/in/mohit-bajpai-a65b7b256
 - GitHub: https://github.com/MohitBajpai78271/
 
