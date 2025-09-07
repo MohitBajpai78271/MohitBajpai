@@ -19,9 +19,9 @@ Welcome to my portfolio! I am a dedicated software developer with expertise Mach
 
 ## 💼 Internship Experience
 
-### iOS Frontend Developer at Government of Delhi (March 2024 to September 2024)
+### Delhi Police SDE (March 2024 to September 2024)
 
-- Development and maintaining iOS frontend components using Swift, UIKit, SwiftUI and other technology.
+- Developed an iOS platform integrating 10+ public safety APIs with real-time clustering and geospatial analytics, cutting crime zone detection time by 60% and enhancing data-driven decision-making
 - Collaborated with Node.js developers to implement backend functionalities, ensuring seamless integration and efficient data flow.
 - Implemented secure authentication processes, including OTP verification and token-based authentication, ensuring data protection and user privacy.
 
