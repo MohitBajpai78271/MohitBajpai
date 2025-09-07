@@ -1,6 +1,6 @@
 # 🚀 Mohit Bajpai - Software Developer Portfolio
 
-Welcome to my portfolio! I am a dedicated software developer with expertise in iOS app development, backed by hands-on experience through internship and diverse software projects. Below is an overview of my professional experience, key projects, and technical skills. I invite you to explore my work and connect with me for further collaboration!
+Welcome to my portfolio! I am a dedicated software developer with expertise Machine Learning, Data Analysis, Data Science and iOS app development, backed by hands-on experience through internship and diverse software projects. Below is an overview of my professional experience, key projects, and technical skills. I invite you to explore my work and connect with me for further collaboration!
 
 ## 👨‍💻 About Me
 
@@ -11,11 +11,11 @@ Welcome to my portfolio! I am a dedicated software developer with expertise in i
 
 ## 📚 Skills
 
-- **Languages**: Swift, Java, C
-- **iOS Frameworks**: UIKit, MapKit, Core Data
-- **Backend**: Firebase
+- **Languages**: Python, Swift, Java, C
+- **Frameworks**: TensorFlow, Pydantic, Alamofire, SwiftUI, UIKit, CoreML
+- **Backend**: Firebase, MongoDB, MySql
 - **Tools**: Xcode,VS code, Git, GitHub, Postman
-- **Others**: REST APIs, JSON, Core Location, Alamofire
+- **Others**: Excel, PySpark, Scikit-learn, LangChain, FastAPI, Docker, Tableau
 
 ## 💼 Internship Experience
 
@@ -31,11 +31,14 @@ Welcome to my portfolio! I am a dedicated software developer with expertise in i
 </div>
 
 
-## 📱 iOS Projects
+## 📱 Projects
 
-### 1. ConstableOnPatrol (iOS App)
+### 1. ConstableOnPatrol (Machine Learning + GenerativeAI + iOS App)
 
-- This project involved the development of an application aimed at enhancing foot patrolling efforts in Delhi.The application facilitates efficient communication and coordination among law enforcement officers,improving response times and overall safety in the community.
+-  Developed a spatial analysis platform mapping 3,400+ crime reports with time-based filters, enhancing patrol planning
+   efficiency and uncovering recurring hotspots to improve law enforcement visibility. Applied DBSCAN for geo-temporal clustering and integrated OpenStreetMap with GPT-4 to generate natural language
+   insights; ML engine recommended top 8 patrol locations, strengthening data-driven deployment decisions.
+   
 - **Key Features**:
   - Implemented crime data filtering and annotations on a map using MapKit and Alamofire.
   - Created an OTP verification system with automatic resend timers.
@@ -58,7 +61,7 @@ https://github.com/MohitBajpai78271/GHFollowers-new.git
 
 ## 🌟 Highlights
 
-- Solved 300+ problems including Leetcode,CodingNinjas and GeeksforGeeks.
+- Solved 550+ problems including Leetcode,CodingNinjas and GeeksforGeeks.
 - Worked closely with teams during my internship and in university projects.
 - Passionate about learning new technologies and improving my development skills.
 
